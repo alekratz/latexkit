@@ -20,6 +20,9 @@ The main caveat of using this plugin is that it cannot interpret a combination o
 # Information
 For news and support, you can check out http://latexkit.tumblr.com.
 
+# Bugs
+**This is beta software.** Bugs are bound to happen. If they do, please create an issue in issues section, or send me an ask on http://latexkit.tumblr.com.
+
 # License
 Software WTFPL, see LICENSE for details.
 

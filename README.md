@@ -14,7 +14,7 @@ I have no idea how to distribute this thing! So for now, follow these instructio
 # Using
 The main caveat of using this plugin is that it cannot interpret a combination of LaTeX and regular text. In order to have your LaTeX run, you must do one of the following:
 * Surround your LaTeX with \begin and \end statements. For example:
-** `\begin\(\LaTeX\)\end`
+  * `\begin\(\LaTeX\)\end`
 * In HTML editing mode, surround your LaTeX with `<div class="latex"></div>`
 
 # Information
